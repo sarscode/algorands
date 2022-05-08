@@ -1,0 +1,25 @@
+{
+  "name": "algorands",
+  "version": "0.1.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarscode/algorands.git"
+  },
+  "author": "Salifu Sani Rich <salifusanirich@gmail.com>",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/sarscode/algorands/issues"
+  },
+  "homepage": "https://github.com/sarscode/algorands#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
